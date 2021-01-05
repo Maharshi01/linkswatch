@@ -32,7 +32,7 @@
   "dependencies": {
     "@material/textfield": "^4.0.0",
     "antd": "^3.24.3",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "bootstrap-css-only": "^4.3.1",
     "chart.js": "^2.9.1",
     "chartist": "^0.11.2",
